@@ -3,7 +3,6 @@
 Welcome to my **SQL Learning Journey** repository! 
 
 This repository contains my solutions to SQL practice questions, covering fundamental to intermediate SQL concepts. Each solution is organized into topic-wise sets to strengthen my understanding of database querying and problem-solving.
-
 ---
 ## 📚 Topics Covered
 
